@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NIGHTGUIDE
 
 ## Week 8-9 Large group project 
@@ -125,3 +126,10 @@ yarn h:rollback
   - or -
 npm run h:rollback
 ```
+=======
+# Final-Group-Project-ReactNative
+NightGuide-ClientSide
+ 
+$npm install
+$npm start
+>>>>>>> 3afa5f3a633d0604111ab9209171b32ecc6209b7
