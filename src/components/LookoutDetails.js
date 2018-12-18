@@ -2,7 +2,6 @@ import React from "react";
 import { Text, Image, Dimensions, ScrollView } from "react-native";
 
 export default class LookoutDetails extends React.Component {
-  
   render() {
     let screenWidth = Dimensions.get("window").width;
     return (
@@ -13,7 +12,7 @@ export default class LookoutDetails extends React.Component {
             marginTop: 20,
             fontSize: 25,
             fontWeight: "bold",
-            padding: 15,
+            padding: 16,
             textAlign: "center"
           }}
         >
